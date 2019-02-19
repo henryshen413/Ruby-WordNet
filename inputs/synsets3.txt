@@ -1,0 +1,4 @@
+id: 1 synset: ,k,k
+id: 0 synset:  l
+id: 0 synset: p,,l
+id: 0 synset: k,o     
